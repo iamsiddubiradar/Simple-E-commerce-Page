@@ -150,7 +150,7 @@ footer {
 @media (max-width:600px){
   nav ul{
     position: absolute;
-    top: 65px;
+    top: 60px;
     left: 0;
     right: 0;
     flex-direction: column;
