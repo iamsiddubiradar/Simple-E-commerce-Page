@@ -28,7 +28,7 @@ header {
   cursor: pointer;
 }
 .logo a{
-  color: white;
+    color: #ffffff;
   text-decoration: none;
 }
 nav ul {
