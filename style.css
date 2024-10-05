@@ -26,6 +26,9 @@ header {
   font-weight: 700;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   cursor: pointer;
+  color: white;
+  text-decoration: none;
+  
 }
 .logo a{
     color: #ffffff;
